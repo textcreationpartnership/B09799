@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal to the Parliament, concerning the restraint of the growing mischief of cheating: by a person that is a great sufferer thereby, but yet more desirous of the publick good, than of the reparation of his private losses, or revenge of injuries.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09799</idno><idno type="EEBO-CITATION">64551608</idno>
+  <idno type="VID">184727</idno>
+  <idno type="EEBO-PROQUEST">2240884247</idno>
+  
+            <idno type="STC">Wing P3715AA</idno>
+            <idno type="STC">ESTC R224250</idno>
+            <idno type="OCLC">64551608</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184727)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:70)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal to the Parliament, concerning the restraint of the growing mischief of cheating: by a person that is a great sufferer thereby, but yet more desirous of the publick good, than of the reparation of his private losses, or revenge of injuries.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal_to_Parliament">
+            <pb facs="tcp:184727:1"/>
+            <head>A Proposal to the Parliament, Concerning the restraint of the growing Mischief of Cheating:</head>
+            <head type="sub">By a Person that is a great sufferer thereby, but yet more desirous of the Publick Good, than of the Reparation of his Private Losses, or Revenge of Injuries.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>YOur great Wisdom must necessarily inform you, that Trade is the strength of this Nation, and the Myne from whence the Treasure of this City springs; and that Justice and Honesty among men, is the <hi>Life</hi> of Trade, and <hi>security against Frauds</hi> the great encouragement thereunto: I do therefore humbly offer to your Consideration, whether the great abounding of Cheats among us be not an evident signe of a defect of that security which is necessary herein; and do not call upon you, who are the Repairers of our Brea<g ref="char:EOLhyphen"/>ches, to make the fence stronger.</p>
+            <p>And Sirs, the great abounding of this sort of men among us, and their many wicked practises to the ruine of thousands, and great discouragement of Trade, is a thing so notoriously known, and the Instances are so numberless, that I shall not divert your thoughts long from your business of a higher Nature and greater Consequence, by rela<g ref="char:EOLhyphen"/>ting many stories: only give me leave to mention Four, that in the space of one year (being a person of little bu<g ref="char:EOLhyphen"/>siness, and a small trade) I my self have been concern'd in.</p>
+            <p>The first, of three men that gave themselves out as Security for Monies to several Scriveners in the City. One of them a man that had visible to the world, between 5 and 600 <hi>l. per annum</hi> in good houses: A second drove a con<g ref="char:EOLhyphen"/>siderable trade, and had Land both in Possession and Reversion: The third kept a great Brew-house, and had so good a Repute for honesty and Estate among his Neighbours, that I have heard he was had in nomination for a Common-councel-man. These three took up, at the same time when I gave them Credit, 11 or 1200 <hi>l.</hi> upon their joynt Bonds; and are now all three broke, two of them cannot be heard of, the other takes sanctuary in the <hi>Temple:</hi> and a Statute of Bankrupt having been since executed upon them all three, it plainly appears that at the time they took up this 1200 <hi>l.</hi> (and would have had five times more if they could) they were 5000 <hi>l.</hi> worse than nought; whereby it is evident their taking up this money was perfect Robbery. The second, of one that having by pretences of ho<g ref="char:EOLhyphen"/>nesty and industry, married a Relation of a poor woman that used my house, made her an instrument to my Wife to borrow money on a Mortgage of Land in the Country to put him in stock to set up his Trade, which in meer Charity (he being represented for an industrious man) I lent him, whereas it appear'd afterward his writings were all forged, and I lost every peny of my money.</p>
+            <p>The third, of a Merchant that conspired with a Trades-man that had broke before, that the said Trades-man should go buy several Commodities as a Country-Gentleman for friends in the Country, and have the Sellers unto this Mer<g ref="char:EOLhyphen"/>chant's house to receive their money, pretending he had ordered money into the said Merchant's hands out of the Country to that purpose. When they came, they were had into the Merchant's Counting-house, he sitting in great state: the Country-Gentleman desires him to pay the person he brought so much money, for Commodities bought, out of what he received yesterday for him out of the Country. The Merchant pretends a disappointment by the Carriers falling short of money, and that he feared he would not pay it till next week: whereat the Gentleman fumes very much; desires the Merchant to deposite so much money for so short a time, and he should have money of him twice as long: which the Mer<g ref="char:EOLhyphen"/>chant (pretending great disbursments at present) declines, but profers his Note at ten days, promising withal, that if the Gentleman's money came to his hands next day, they should have it. The deluded Trades-men seeing this Merchant live in a fair house, and in a good port, venture to take his Note: but before the ten days be expired, my Merchant takes all his goods, and by night leaves his house and his Creditors to seek him and their money if they could tell where.</p>
+            <p>The fourth of a young man, whom I had known the whole time of his Apprentiseship to be a diligent and labori<g ref="char:EOLhyphen"/>ous person, and in good Repute with his Master and all men: and afterwards I let him a conveniencie in my own house for his work (which related to the Trade I drive) where he behaved himself so well for two or three years, that he ob<g ref="char:EOLhyphen"/>tained the consent of an ingenious and vertuous young Gentlewoman of a good Family (who sojourned with us) and of all her Relations, and marri'd her; and afterwards took a Shop and traded in a hopeful way, being (to all mens ap<g ref="char:EOLhyphen"/>prehensions) very industrious, and to his Wife most loving; but being secretly wicked in heart (without any necessity or provocation) he improves all this fair show to get money to Interest of his own and Wives Relations, and money and goods of several other persons; and having gather'd all together, at a designed time sends his Wife into the Country, promising to come to her at a certain day; and gave out to all men, that he was going to her at the same day; but writes her word that extroardinary business falling out, he could not come to her until a week after; by which means she thinking he had been at home, and his Family and Friends that he was with her, he had the opportunity of a whole weeks time to go with his Booty out of the reach of his Creditors, and cannot be heard of since.</p>
+            <p>These Instances of so many Cheats happening to so inconsiderable a person, in so short a time, may convince your Honours of the great abounding thereof in this City during your Converse, wherein (this giving occasion to the di<g ref="char:EOLhyphen"/>scourse) you will hear of so many of the like nature, that they will even <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire your patience; whereby I find many of my own acquaintance, and others that are men of Reason, so far discouraged, that they think leaving off all Trade, and living sparingly on what they have, for fear of being cheated of all.</p>
+            <p>Having thus represented the State of this matter to your Honours, I do earnestly beseech your grave consideration, whether the Laws against this <hi>Villany,</hi> which are already Established among us, be not too milde for the Hainousness thereof; especially being so much exceeded in Severity by the Laws of other Nations about us: and if so, I shall pray to God to direct your hearts to the provision of such stricter Laws as may be effectual to redress this great Grievance. That for your fidelity to the trust reposed in you by those you represent, and for your wisdome and industry in serving your Generation in this and many other beneficial Designes, both we that are present, and the Generation to come, may (with severence) rise up and call you Blessed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
